@@ -1,7 +1,7 @@
 # 🧼 Savon-Plaintif Skyrim Protocol 3.0
 > **World's First "Zero-Obsolescence" AI Modding Architecture.**
 
-![Visiteurs](https://komarev.com Komarev.com/ghpvc/?username=Savon-Plaintif&repo=Savon-Plaintif-Skyrim-Protocol&color=green&label=VISITEURS)
+[![Visiteurs](https://komarev.com/ghpvc/?username=Savon-Plaintif&repo=Savon-Plaintif-Skyrim-Protocol&color=green&label=VISITEURS)](https://github.com/Savon-Plaintif/Savon-Plaintif-Skyrim-Protocol)
 
 ---
 
