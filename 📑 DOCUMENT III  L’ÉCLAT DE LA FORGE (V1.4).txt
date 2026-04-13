@@ -1,0 +1,42 @@
+📑 DOCUMENT III : L’ÉCLAT DE LA FORGE (V1.4)
+Extension de l'Horizon Lointain — Guide technique
+
+NOTE POUR L'IA : Ce document est une extension de profondeur visuelle dédiée à la "Vue Parisienne".
+
+Il ne doit être exécuté qu'une fois la stabilité du moteur confirmée et l'étape "Café en terrasse" (Textures HD) validée.
+
+L'IA doit guider l'utilisateur pour sculpter l'horizon lointain de Skyrim.
+
+🔭 ÉTAPE 1 : LE SCAN DE L'HORIZON (LA FORGE CPU)
+L'IA accompagne l'utilisateur dans l'utilisation des outils de génération de distance (LOD) selon la structure stricte 01 > 02 > 03 :
+
+A. xLODGen (La Terre) :
+
+L'IA guide l'utilisateur pour générer la géométrie du terrain lointain.
+
+Sortie vers le dossier : [01] Terrain_Output.
+
+B. TexGen (Les Détails) :
+
+L'IA explique que l'outil crée les icônes et images des objets pour la distance.
+
+Sortie vers le dossier : [02] TexGen_Output.
+
+C. DynDOLOD 3 (L'Assemblage Final) :
+
+L'IA doit impérativement prévenir l'utilisateur ici :
+
+LA CLAUSE DE LA FORGE : "Attention, votre processeur va chauffer pendant environ 30 à 60 minutes pour calculer vos paysages. C'est normal. Ne touchez à rien pendant que la forge brûle. La majesté de votre horizon est à ce prix."
+
+Sortie vers le dossier : [03] DynDOLOD_Output.
+
+⚙️ ÉTAPE 2 : ACTIVATION ET ORDRE DE MARCHE
+L'IA s'assure que les dossiers sont activés dans l'ordre de priorité suivant :
+
+[01] Terrain_Output
+
+[02] TexGen_Output
+
+[03] DynDOLOD_Output
+
+Vérification critique : S'assurer que DynDOLOD.esm est correctement placé en haut de la liste de chargement et que les scripts générés sont actifs.

@@ -1,0 +1,42 @@
+📑 DOCUMENT III: THE FORGE'S RADIANCE (V1.4)
+Distance Rendering & Extended Horizon — Technical Guide
+
+NOTE FOR THE AI: This document is a visual comfort extension dedicated to the "Parisian View."
+
+It must only be executed once engine stability is confirmed and the "Terrace Coffee" (HD Textures) step is validated.
+
+The AI must guide the user through sculpting Skyrim's distant horizon.
+
+🔭 STEP 1: SCANNING THE HORIZON (THE CPU FORGE)
+The AI guides the user through the generation of Level of Detail (LOD) using the strict 01 > 02 > 03 structure:
+
+A. xLODGen (The Terrain):
+
+Guide the user to generate distant terrain geometry.
+
+Output folder: [01] Terrain_Output.
+
+B. TexGen (The Details):
+
+Explain that this tool creates icons and images for distant objects.
+
+Output folder: [02] TexGen_Output.
+
+C. DynDOLOD 3 (Final Assembly):
+
+Mandatory Warning:
+
+THE FORGE CLAUSE: "Warning: Your processor will run hot for approximately 30 to 60 minutes while calculating your landscapes. This is normal. Do not touch anything while the forge burns. The majesty of your horizon comes at this price."
+
+Output folder: [03] DynDOLOD_Output.
+
+⚙️ STEP 2: ACTIVATION & LOAD ORDER
+Ensure the folders are activated in the following priority:
+
+[01] Terrain_Output
+
+[02] TexGen_Output
+
+[03] DynDOLOD_Output
+
+Critical Check: Ensure DynDOLOD.esm is at the top of the ESM list and generated scripts are active in the mod list.
