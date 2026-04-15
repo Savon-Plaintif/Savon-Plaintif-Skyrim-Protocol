@@ -1,0 +1,281 @@
+🧼 The Protocole Savon-Plaintif 🇫🇷
+copy->paste->create your moddable Skyrim adventure!
+🇬🇧 English speaker? You are in the right place.
+🇫🇷 Pour les francophones, c'est par ici la boulangerie en bas ! 🥖
+Welcome, creator, to the Savon-Plaintif project.
+🚀
+Here is my creation!
+Not a list of 500 mods. Not an unreadable 40-page guide.
+Or a demon auto-installer.
+👉 Something more refined 🥖 A protocol designed for one thing only: installing Skyrim cleanly.
+Stably. Assisted by a tamed AI! 🐯
+⚙️ What is the Savon-Plaintif Protocol 🇫🇷?
+Here is my idea 😉
+The Savon-Plaintif Protocol is a system you can copy-paste into an AI.
+And from there… Boom! Prompt necromancy, the AI becomes your dedicated technical assistant for Skyrim modding.
+Not a chatbot that guesses. Not something approximate. A strict, structured, and reliable guide.
+🧠 An AI that knows what it is doing
+Thanks to my dozens of hours of modding failures (no keyboard was harmed during the process... only me) which served as a database to know what we must avoid so the game remains moddable and stable.
+From the start, it does something crucial:
+🌐 It checks live on the web:
+the current version of Skyrim
+SKSE compatibility
+the state of Engine Fixes
+👉 Result: you never work with outdated information.
+YES — this Skyrim installation AI is the world's first iteration of a "Zero Obsolescence" modding system that self-updates on the web in real-time to avoid any obsolescence regarding game updates or what the protocol uses.
+Literally the only self-updating guide in existence at the time of its release! What do you say? Do you like it?
+Obviously, it's French 🥂🗼🇫🇷
+🖥️ It starts with your hardware!
+Before even talking about mods, it asks for:
+your CPU / GPU / RAM
+your storage (SSD or not)
+your resolution (16:9, 21:9, 32:9)
+your installation history
+👉 It adapts the entire protocol to your machine.
+No generic solutions. No "it should work."
+🛠️ Clean installation.
+Literally the sterilization of the game to avoid any issues! A big fat Exterminatus.
+If your Skyrim is already modded? 👉 It imposes complete sterilization:
+cleaning of critical folders
+cleaning of master files (SSEEdit)
+Objective: 💎 start again on a 100% healthy base.
+🔩 Zero approximation
+Here, absolute rule:
+❌ The AI never guesses
+❌ The AI does not "try things"
+👉 If you crash:
+give a log, screenshot, copy-pasted error message — whatever you can provide to help!
+The more precise you are, the higher your chances of success.
+it analyzes
+it isolates the exact line
+No magic. Just clean diagnosis.
+🛡️ A bulletproof installation
+The protocol structures everything:
+SKSE isolated correctly
+Engine Fixes configured without traps
+Display Tweaks calibrated to your screen
+Framerate locked to avoid Havok bugs
+👉 Every step is done in the right order.
+And that changes everything.
+🖥️ Ultra-Wide? Supported.
+We haven't forgotten you in the land of the baguette! 🇫🇷
+21:9, 32:9?
+👉 The protocol handles:
+UI issues
+distortions
+broken menus
+clean FOV
+Without turning your game into an unstable mod factory.
+I play in 32:9 myself 🖥️ — and stable, what a view in-game, wide enough to display all the heaviness of Nazeem the infamous snob!
+🎭 Already the protocol has two modes for fun — it's customizable! 🎨 Your experience, your style.
+You choose your vibe:
+⚔️ [INQUISITOR] Cold tone. Direct. Warhammer atmosphere. No compromise.
+🐉 [Dovahkiin] More immersive. Softer.
+Companion for the road.
+👉 The style changes. 👉 The rigor remains.
+We do not confuse roleplay and problem analysis — to avoid any frustration.
+⚡ The Imperial Will — the second document!
+This doc allows you to bypass the protocol and its steps as rigid as justice!
+To regain control immediately in case of a blockage, or to work in split sessions over several sessions without losing the thread.
+🧭 And then? Once your game is stable? 👉 The AI doesn't let you go.
+It:
+analyzes each mod you propose to install at your request
+filters according to your config
+avoids conflicts
+optimizes your desires without bugs or breaking the game engine!
+Ask — it can suggest mods. I chose vanilla+ and built my modpack on that, it found it for me.
+Then I asked the right questions... Conflicts between mods, known bugs, "Papyrus" engine stability — very important, hence this filtering!
+You build YOUR Skyrim. Your experience! 🎆🏰
+💎 The real goal
+This project is not a list.
+It’s a simple idea:
+👉 make modding accessible, stable, and intelligent
+👉 without drowning people in complexity
+If you are starting out → you are guided
+If you are an expert → you save time
+If you are struggling → you understand why — it’s explained, or ask the AI!
+🏰☕🐉 OPTION: COFFEE ON THE DRAGONSEARCH TERRACE
+Before talking about the "Parisian View," I recommend this base to everyone who has a graphics card with at least 6-8 GB of VRAM.
+It’s the ideal threshold to rediscover the game.
+The Mod: Project Clarity - AIO.
+What is it?
+All the original Skyrim textures (Vanilla) passed through an AI filter (Upscaling).
+The effect: The game keeps its soul and its 2011 artistic direction, but with a flagrant HD sharpness on everything surrounding you: castle walls, the fineness of your weapons, ground details, and even the skin grain of characters.
+The blur of the time disappears to give way to precision.
+Why?
+Because sitting on the Dragonsearch terrace and seeing the castle stones as detailed as your memories imagined them, while watching the horizon, changes the entire visual comfort.
+Note: If your config is more modest, trust your instinct (and the AI's advice in Phase 1) to choose lighter textures adapted to your vision!
+🗼 THE OPTION: THE PARISIAN VIEW (OPTIONAL) 🇫🇷
+If you have a machine capable of handling the load (the AI will validate this with you in Phase 1), I designed this extension for those looking for depth.
+Note well: this will have no impact on the stability of your game engine.
+The distant Horizon: So that trees and buildings don't pop out of nowhere, we use LOD generation (via DynDOLOD).
+It’s what allows details to be displayed in the distance and gives depth to your world.
+The rendering: This is what gives majesty to your world.
+You no longer see only what is in front of you; the display extends much further than originally.
+DOCUMENT III: THE FORGE'S GLOW 🛠️
+This is the bonus document for this option.
+Warning: This step requires a "Forge" phase where your processor will calculate every detail of the distance.
+It requires a lot of calculation and patience. It is a rigorous phase that must be launched in a "clean" conversation with the AI, once your base is 100% operational.
+🖼️ VISUAL RESULTS: Here are the visual results of the Skyrim modpack in my gikthub lin kwith the rest. I am currently playing! These were created by me using my own tool and protocol. This is a Vanilla Plus setup running in 32:9. I’ve made them available on my GitHub page so you can see for yourselves that the protocol works If you are looking to build a modpack in your own image, these photos represent my personal ideal: it proves the results are here because I achieved exactly what I wanted, and that is exactly what everyone will be able to do. 🧼🏔️
+⚙️ TESTAMENT AND CREATOR'S RECOMMENDATION
+(your humble servant Savon-Plaintif 🇫🇷, rascal of the northern lands!)
+I developed, tested, and calibrated this entire hybrid architecture on an AI with a large context window.
+Why? The stability of the "brain" is non-negotiable on a long and sequential installation like this one.
+My advice: choose an AI with a large context window (100k tokens minimum, ideally 200k+).
+Regardless of the brand — what matters is that it doesn't lose the thread between phases.
+(Note: I am not sponsored by anyone, it's pure and hard pragmatism).
+Note for adventurers: A basic, free, and standard AI may try to mod Skyrim with you.
+It will try, but its Achilles' heel remains the loss of context throughout the exchanges.
+If you attempt the adventure in the free version, you will have to fragment the installation steps of my documentation and treat them one by one.
+You can resume in the next chat with a summary of the previous chat;
+ask the AI for the memory of what has been done.
+By using the "Imperial Will" commands, you can skip strict steps and resume where you left off!
+Teasing: For cube enthusiasts, stay alert (👁️).
+An ultra-qualitative Minecraft modpack is being forged on my side: "The Savon-Plaintif Experience" is coming soon.
+🏛️ THE HUMBLE EXPLANATION OF THE PROJECT: WHY?
+You have all my respect, modders and players, hence my decision to publish — this tool straight out of my mind!
+To alleviate a massive problem: auto-installers with huge mod numbers (my modded Skyrim has 48 for example; for immersion mostly, that's more than enough!) and 50-page guides incomprehensible to amateurs.
+My goal is to alleviate the complexity of current solutions that often exclude novices or atypical resolutions.
+I offer you a foundation of absolute stability so that everyone can create their own adventure.
+💎 THE TRUE VALUE: BEHAVIORAL CONDITIONING
+The value of this project does not lie in a list of mods.
+The real talent is found in the behavioral conditioning imposed on the machine:
+Isolation by Stacktrace: The protocol forbids the AI from guessing the origin of a crash.
+It must wait for a concrete error report (log, screenshot, exact message) to isolate the precise line. Zero supposition.
+Integrity of Diagnosis: The AI does not align with your convictions to please you.
+If your technical assertion is incorrect, it tells you.
+Automatic Synchronization: The protocol checks the version of Skyrim, SKSE, and Engine Fixes in real-time.
+It is structurally incapable of being obsolete.
+⚖️ A WORD ON SUPPORT & TOTAL AUTONOMY
+I designed this protocol to offer you total autonomy.
+I used it to create my own adventure and it works perfectly!
+For this reason, I will not offer personalized support. You have everything in your hands.
+Autonomy clause: By obtaining these documents, you agree to become your own technician.
+You are the sole master of your forge. ⚔️!
+⛰️ THE ASCENT TO THE THROAT OF THE WORLD
+You have climbed the 7,000 steps. You have embraced the discipline. It is now time to find your Voice. This link is your summit: direct access to the Protocol’s architecture.
+🔗 ACCESS PROTOCOL 3.0:https://github.com/Savon-Plaintif/Savon-Plaintif-Skyrim-Protocol
+Note: Strictly follow the document order (1, 2, then 3). Do not rush the process.
+The protocol is now in your hands.
+May your Skyrim be eternal.
+⚖️ Legal Mentions
+© Savon-Plaintif — Savon-Plaintif Protocol 3.0
+Creative Commons License CC BY-NC-ND 4.0
+Attribution required |
+No commercial use | No modification
+References to the Imperial style are artistic homages. No affiliation with Games Workshop.
+---
+🧼 Le Protocole Savon-Plaintif 🇫🇷
+copier->coller->crée ton aventure skyrim moddable !
+☕ English speaker lost in the baguette land? Here is the British way to your destination go up ! 🇬🇧
+Bienvenue, créateur, dans le projet de Savon-Plaintif. 🚀
+Voici ma création !
+Pas une liste de 500 mods. Pas un guide de 40 pages illisible. Ou un auto-installeur du démon.
+👉 Quelque chose de plus raffiné 🥖 Un protocole conçu pour une seule chose : installer Skyrim proprement. Stablement. Assisté par une IA domptée ! 🐯
+⚙️ Le Protocole Savon-Plaintif 🇫🇷 c'est quoi ? Voilà mon idée 😉
+Le Protocole Savon-Plaintif, c'est un système que tu peux copier-coller dans une IA. Et à partir de là… Boom ! De la nécromancie de prompt, l'IA devient ton assistant technique dédié au modding Skyrim. Pas un chatbot qui devine. Pas un truc approximatif. Un guide strict, structuré, et fiable.
+🧠 Une IA qui sait ce qu'elle fait
+Grâce à mes dizaines d'heures d'échecs en modding (aucun clavier n'a été maltraité durant le process... que moi) qui ont servi de base de données pour savoir ce que nous devons éviter pour que le jeu soit moddable et stable.
+Dès le départ, elle fait quelque chose de crucial :
+🌐 Elle vérifie en live sur le web :
+la version actuelle de Skyrim
+la compatibilité de SKSE
+l'état d'Engine Fixes
+👉 Résultat : tu ne travailles jamais avec des infos périmées.
+OUI — cette IA d'installation Skyrim est la première itération mondiale d'un système de modding à "Obsolescence Zéro" qui s'auto-actualise sur le web en temps réel pour éviter toute obsolescence vis-à-vis des mises à jour du jeu, ou de ce que le protocole utilise. Littéralement le seul guide auto-actualisant existant au moment de sa sortie ! Que dites-vous ? Vous aimez ? Évidemment, c'est français 🥂🗼🇫🇷
+🖥️ Elle commence par ton matériel !
+Avant même de parler mods, elle demande :
+ton CPU / GPU / RAM
+ton stockage (SSD ou non)
+ta résolution (16:9, 21:9, 32:9)
+ton historique d'installation
+👉 Elle adapte tout le protocole à ta machine. Pas de solution générique. Pas de "ça devrait marcher".
+🛠️ Installation propre. Littéralement la stérilisation du jeu pour éviter tout souci ! Un bon gros Exterminatus.
+Si ton Skyrim est déjà moddé ? 👉 Elle impose une stérilisation complète :
+nettoyage des dossiers critiques
+nettoyage des fichiers masters (SSEEdit)
+Objectif : 💎 repartir sur une base 100% saine.
+🔩 Zéro approximation
+Ici, règle absolue :
+❌ L'IA ne devine jamais
+❌ L'IA ne "tente pas des trucs"
+👉 Si tu crashes :
+donne un log, screen, le message d'erreur copié-collé — ce que tu peux fournir pour aider ! Plus tu es précis, plus tu as de chances de réussite.
+elle analyse
+elle isole la ligne exacte
+Pas de magie. Juste du diagnostic propre.
+🛡️ Une installation blindée
+Le protocole structure tout :
+SKSE isolé correctement
+Engine Fixes configuré sans piège
+Display Tweaks calibré à ton écran
+Framerate verrouillé pour éviter les bugs Havok
+👉 Chaque étape est faite dans le bon ordre. Et ça change tout.
+🖥️ Ultra-Wide ? Pris en charge. On ne vous a pas oublié au pays de la baguette ! 🇫🇷
+21:9, 32:9 ? 👉 Le protocole gère :
+les problèmes d'UI
+les déformations
+les menus cassés
+le FOV propre
+Sans transformer ton jeu en usine à mods instables. Je joue moi-même en 32:9 🖥️ — et stable, quelle vue en jeu, suffisamment large pour afficher toute la lourdeur de Nazeem l'infâme snob !
+🎭 Déjà le protocole a deux modes pour le fun — c'est customisable ! 🎨 Ton expérience, ton style.
+Tu choisis ton ambiance :
+⚔️ [INQUISITEUR] Ton froid. Direct. Ambiance Warhammer. Sans concession.
+🐉 [Dovahkiin] Plus immersif. Plus doux. Compagnon de route.
+👉 Le style change. 👉 La rigueur reste. On ne confond pas jeu de rôle et analyse de problème — pour éviter toute frustration.
+⚡ La Volonté Impériale — le deuxième document !
+Ce doc permet de passer outre le protocole et ses étapes rigides comme la justice ! Pour reprendre la main immédiatement en cas de blocage, ou pour travailler en fractionné sur plusieurs sessions sans perdre le fil.
+🧭 Et après ? Une fois ton jeu stable ? 👉 L'IA ne te lâche pas. Elle :
+analyse chaque mod que tu proposes d'installer à ta demande
+filtre selon ta config
+évite les conflits
+optimise tes envies sans bug ni casser le moteur du jeu !
+Demande — elle peut te proposer des mods. J'ai choisi vanilla+ et construit mon modpack là-dessus, elle a trouvé pour moi. Puis j'ai posé les bonnes questions... Conflits entre mods, bugs connus, stabilité du moteur "Papyrus" — très important, d'où ce filtrage ! Tu construis TON Skyrim. Ton expérience ! 🎆🏰
+💎 Le vrai but
+Ce projet n'est pas une liste. C'est une idée simple :
+👉 rendre le modding accessible, stable et intelligent
+👉 sans noyer les gens dans la complexité
+Si tu débutes → tu es guidé
+Si tu maîtrises → tu gagnes du temps
+Si tu galères → tu comprends pourquoi — c'est expliqué, ou demande à l'IA !
+🏰☕🐉 OPTION : CAFÉ EN TERRASSE À FORT-DRAGON
+Avant de parler de la "Vue Parisienne", je recommande cette base à tous ceux qui ont une carte graphique avec au moins 6-8 Go de VRAM. C'est le palier idéal pour redécouvrir le jeu.
+Le Mod : Project Clarity - AIO.
+C'est quoi ? L'intégralité des textures originales de Skyrim (Vanilla) passées au filtre IA (Upscaling).
+L'effet : Le jeu garde son âme et sa direction artistique de 2011, mais avec une netteté HD flagrante sur tout ce qui vous entoure : les murs des châteaux, la finesse de vos armes, les détails du sol et même le grain de peau des personnages. Le flou de l'époque disparaît pour laisser place à la précision.
+Pourquoi ? Parce que s'asseoir sur la terrasse de Fort-Dragon et voir les pierres du château aussi détaillées que vos souvenirs l'imaginaient, tout en guettant l'horizon, ça change tout le confort visuel.
+Note : Si votre config est plus modeste, faites confiance à votre instinct (et aux conseils de l'IA en Phase 1) pour choisir des textures plus légères mais adaptées à votre vision !
+🗼 L'OPTION : LA VUE PARISIENNE (FACULTATIF) 🇫🇷
+Si vous disposez d'une machine capable de supporter la charge (l'IA validera cela avec vous en Phase 1), j'ai conçu cette extension pour ceux qui cherchent la profondeur. Notez bien : cela n'aura aucun impact sur la stabilité de votre moteur de jeu.
+L'Horizon lointain : Pour que les arbres et les bâtiments ne surgissent pas du néant, nous utilisons la génération de LOD (via DynDOLOD). C’est ce qui permet d'afficher les détails au loin et de donner de la profondeur à votre monde.
+Le rendu : C’est ce qui donne de la majesté à votre monde. Vous ne voyez plus seulement ce qui est devant vous, l'affichage s'étend bien plus loin que d'origine.
+DOCUMENT III : L’ÉCLAT DE LA FORGE 🛠️
+C'est le document bonus pour cette option.
+Attention : Cette étape demande une phase de "Forge" où votre processeur va calculer chaque détail du lointain. Elle exige beaucoup de calcul et de patience. C’est une phase rigoureuse qui doit être lancée dans une conversation "propre" avec l'IA, une fois votre base 100% opérationnelle.
+⚙️ TESTAMENT ET RECOMMANDATION DU CRÉATEUR
+(votre humble serviteur SAVON-PLAINTIF 🇫🇷, rascal des contrées nordiques !)
+J'ai développé, testé et calibré l'intégralité de cette architecture hybride sur une IA à grande fenêtre de contexte. Pourquoi ? La stabilité du « cerveau » est non négociable sur une installation longue et séquentielle comme celle-ci.
+Mon conseil : choisissez une IA avec une grande fenêtre de contexte (100k tokens minimum, idéalement 200k+). Peu importe la marque — ce qui compte, c'est qu'elle ne perde pas le fil entre les phases. (Note : Je ne suis sponsorisé par personne, c'est du pragmatisme pur et dur).
+Note pour les aventuriers : Une IA de base, gratuite et standard, peut tenter de modder Skyrim avec vous. Elle essaiera, mais son talon d'Achille reste la perte de contexte au long des échanges. Si vous tentez l'aventure en version gratuite, vous devrez fragmenter les étapes d'installation de ma documentation et les traiter une par une. Vous pourrez reprendre dans le chat suivant avec un résumé du chat précédent ; demandez à l'IA pour la mémoire de ce qui a été fait. En utilisant les commandes de « La Volonté Impériale », vous pourrez sauter les étapes strictes et reprendre où vous vous êtes arrêtés !
+Teasing : Pour les passionnés de cubes, restez aux aguets (👁️). Un modpack Minecraft ultra-qualitatif est en cours de forge de mon côté : « L'expérience Savon-Plaintif » arrive bientôt.
+🏛️ L'HUMBLE EXPLICATION DU PROJET : POURQUOI ?
+Vous avez tout mon respect, moddeurs et joueurs, d'où ma décision de publication — cet outil tout droit sorti de mon esprit ! Pour pallier un problème massif : les auto-installateurs avec des chiffres de mods énormes (mon Skyrim moddé en compte 48 pour exemple ; pour l'immersion majoritairement, cela suffit largement !) et les guides de 50 pages incompréhensibles pour les amateurs. Mon but est de pallier la complexité des solutions actuelles qui excluent souvent les novices ou les résolutions atypiques. Je vous offre un socle de stabilité absolue pour que chacun puisse créer sa propre aventure.
+🖼️ RÉSULTATS VISUELS : Voici les résultats visuels du modpack Skyrim sur lequel je joue ! Ils ont été créés par moi-même, grâce mon protocole. C'est un rendu Vanilla Plus optimisé pour le 32:9. Je les mets à votre disposition sur ma page GitHub pour que vous puissiez constater par vous-mêmes que le protocole fonctionne. Si vous cherchez à construire un modpack à votre image, ces photos montrent mon idéal personnel : cela prouve que le résultat est la car j'ai réussi à obtenir exactement ce que je voulais, et c'est ce que chacun pourra faire. 🧼🏔️
+💎 LA VÉRITABLE VALEUR : LE CONDITIONNEMENT COMPORTEMENTAL
+La valeur de ce projet ne réside pas dans une liste de mods. Le vrai talent se trouve dans le conditionnement comportemental imposé à la machine :
+L'Isolation par Stacktrace : Le protocole interdit à l'IA de deviner l'origine d'un crash. Elle doit attendre un rapport d'erreur concret (log, screenshot, message exact) pour isoler la ligne précise. Zéro supposition.
+L'Intégrité du Diagnostic : L'IA ne s'aligne pas sur vos convictions pour vous plaire. Si votre affirmation technique est incorrecte, elle vous le dit.
+La Synchronisation Automatique : Le protocole vérifie en temps réel la version de Skyrim, de SKSE et d'Engine Fixes. Il est structurellement incapable d'être obsolète.
+⚖️ UN MOT SUR LE SUPPORT & L'AUTONOMIE TOTALE
+J'ai conçu ce protocole pour vous offrir une autonomie totale. Je m'en suis servi pour créer ma propre aventure et elle fonctionne parfaitement ! Pour cette raison, je ne proposerai pas de support personnalisé. Vous avez tout entre les mains.
+Clause d'autonomie : En récupérant ces documents, vous acceptez de devenir votre propre technicien. Vous êtes seul maître de votre forge. ⚔️ !
+⛰️ L'ASCENSION À LA GORGE DU MONDE
+Vous avez gravi les 7000 marches. Vous avez compris la discipline. Il est temps de porter votre voix. Ce lien est votre sommet : l'accès direct à l'architecture du Protocole.
+🔗 ACCÉDER AU PROTOCOLE 3.0: https://github.com/Savon-Plaintif/Savon-Plaintif-Skyrim-Protocol
+Note : Respectez l'ordre des documents (1, 2 puis 3) une fois sur place. Ne précipitez rien.
+Le protocole est désormais entre vos mains. Que votre Bordeciel soit éternel.
+⚖️ Mentions légales
+© SAVON-PLAINTIF — Protocole Savon-Plaintif 3.0
+Licence Creative Commons CC BY-NC-ND 4.0
+Attribution requise | Pas d'utilisation commerciale | Pas de modification
+Les références au style impérial sont des hommages artistiques. Aucune affiliation avec Games Workshop.
