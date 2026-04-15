@@ -5,6 +5,11 @@
 
 ---
 
+---
+### 📜 (0) PROJECT PHILOSOPHY / PHILOSOPHIE DU PROJET
+> 🔗 [READ THE MANIFESTO (EN/FR)](./PROJECT_PHILOSOPHY.txt)
+---
+
 ## 🇫🇷 SECTION FRANÇAISE
 ### 📦 PACK DE BASE (Instructions pour l'IA)
 > **IMPORTANT :** Donnez d'abord le **Doc I** à votre IA, puis le **Doc II** juste après dans le même chat. Ne commencez à travailler qu'une fois ces deux bases intégrées.
